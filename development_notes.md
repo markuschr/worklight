@@ -12,7 +12,9 @@
 
 -Wemos D1 mini microcontroller
 
--small red LED
+-IRLI530NPbF logic level MOSFET
+
+-3mm red LED
 
 -connection board
 
