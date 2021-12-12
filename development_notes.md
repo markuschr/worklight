@@ -1,13 +1,25 @@
-Parts used
+**Parts used**
+
 -10 W COB LED
+
 -12 V cordless drill battery (Biltema)
+
 -5A DC-DC Step Down Buck Converter Module with current limiter
--Micro USB car charger
--Old computer processor cooler
+
+-micro USB car charger
+
+-old computer processor cooler
+
 -Wemos D1 mini microcontroller
--Small red LED
+
+-small red LED
+
 -connection board
+
 -on/off switch
+
 -fuse
+
 -10 kohm potentiometer 
--Resistors, connectors, wires, screws, glue
+
+-resistors, connectors, wires, screws, glue
