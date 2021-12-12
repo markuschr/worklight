@@ -2,7 +2,7 @@
 
 -10 W COB LED
 
--12 V cordless drill battery (Biltema)
+-12 V 1.3 Ah cordless drill battery (Biltema)
 
 -5A DC-DC Step Down Buck Converter Module with current limiter
 
