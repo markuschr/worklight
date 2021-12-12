@@ -8,7 +8,7 @@
 
 -micro USB car charger
 
--old computer processor cooler
+-old computer processor cooling element
 
 -Wemos D1 mini microcontroller
 
