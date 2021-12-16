@@ -1,6 +1,6 @@
 # LED worklight
 
-Making of a 10 W LED worklight which is connectable to a 12 V Biltema cordless drill battery. Dimmer, low battery light indicator, and overdischarge protection were implemented.
+Making of a 10 W LED worklight which is connectable to a 12 V Biltema cordless drill battery. Dimmer, low battery LED indicator, and overdischarge protection were implemented.
 This project was done as a part of Principles of repurposing of electronics course at University of Oulu.
 
 # Parts used
