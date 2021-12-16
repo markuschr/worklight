@@ -6,7 +6,7 @@
 
 -5A DC-DC Step Down Buck Converter Module with current limiter
 
--old micro USB car charger
+-old USB car charger
 
 -old computer processor cooling element
 
