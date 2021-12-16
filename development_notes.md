@@ -6,7 +6,7 @@
 
 -5A DC-DC Step Down Buck Converter Module with current limiter
 
--micro USB car charger
+-old micro USB car charger
 
 -old computer processor cooling element
 
@@ -26,4 +26,6 @@
 
 -resistors: 11 kohm, 10 kohm, 3.32 kohm, 100 ohm 
 
--connectors, wires, screws, glue
+-two Abiko push-on connectors
+
+-wires, screws, glue
