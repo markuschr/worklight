@@ -41,7 +41,7 @@ This project was done as a part of Principles of repurposing of electronics cour
 
 # Wiring diagram
 
-![wiring of the worklight](https://user-images.githubusercontent.com/96006405/146407103-c24088d1-c8b1-4169-8534-455fa3689dcb.JPG)
+![wiring of the worklight](https://user-images.githubusercontent.com/96006405/146410564-97dff615-c898-4bcc-9aad-548d0920435c.JPG)
 
 # 3D printed case
 
