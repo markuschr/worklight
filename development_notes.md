@@ -24,4 +24,6 @@
 
 -10 kohm potentiometer 
 
--resistors, connectors, wires, screws, glue
+-resistors: 11 kohm, 10 kohm, 3.32 kohm, 100 ohm 
+
+-connectors, wires, screws, glue
