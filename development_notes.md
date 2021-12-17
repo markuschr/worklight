@@ -41,6 +41,8 @@ First thing is to attach the LED to the heatsink. Holes can be drilled to the he
 
 For making the dimming option the potentiometer that controls the voltage must be removed from the module. By adding a bit of solder to the pins and pulling the potentiometer it comes off pretty easily. Then the trimmer potentiometer can be hot glued to the back of the 10 kohm potentiometer and two wires soldered to the pads on the module, leaving the middle one unconnected. The wires are soldered to the potentiometers along with 11 kohm resistor according to the wiring diagram which can be seen below. After making the connections the trimmer potentiometer screw can still be tuned so that we get the maximum brightness when the bigger potentiometer is rotated to the max.
 
+Next the microcontroller and the regulator for powering it can be added. Any pcb from a car charger that takes 12 V input and outputs 5 V is fine for the regulator. 
+
 
 
 
