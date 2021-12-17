@@ -48,9 +48,12 @@ Next the microcontroller and the regulator for powering it can be added. Any pcb
 ![wiring of the worklight](https://user-images.githubusercontent.com/96006405/146410564-97dff615-c898-4bcc-9aad-548d0920435c.JPG)
 
 # Arduino program
-The arduino program can be found (HERE). 
+The arduino program can be found (HERE).
+
 The operation is pretty simple: 
+
 First it measures the value from analog input A0 pin and counts an average from last 4 values. 
+
 Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  
 
 # 3D printed case
