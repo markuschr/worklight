@@ -39,6 +39,8 @@ This project was done as a part of Principles of repurposing of electronics cour
 
 First thing is to attach the LED to the heatsink. Holes can be drilled to the heatsink and then the LED can be secured in place with screws. Some thermal conducting paste can be apllied to the bottom of the LED. Then wires can be soldered to the positive and negative terminals, and connect the wires through multimeter to the buck converter module's output. The buck converter module works as the LED driver. The maximum current and voltage can be selected by rotating the screws in the trimmer potentiometers. The one closer to the output terminals is for the maximum current and the one closer to the input is for the voltage. Before connecting input terminals to 12 V the potentiometers screws should be rotated counter clockwise direction. After connecting the input to 12 V the output should be measured for current and voltage. That way both voltage and current can be set by rotating the potentiometer screws clockwise to max 240 mA and max 12 V.
 
+For the dimmer the potentiometer that controls the voltage must be removed from the module. By adding a bit of solder to the pins and pulling the potentiometer it comes off pretty easily. Then the trimmer potentiometer can be hot glued to the back of the 10 kohm potentiometer. 
+
 
 # Wiring diagram
 
