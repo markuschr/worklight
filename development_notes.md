@@ -37,6 +37,7 @@ This project was done as a part of Principles of repurposing of electronics cour
 
 # Design procedure
 
+First thing is to attach the LED to the heatsink. Holes can be drilled to the heatsink and then the LED can be secured in place with screws. Some thermal conducting paste can be apllied to the bottom of the LED. Then wires can be soldered to the positive and negative terminals, and connect the wires to the buck converter module's output.  
 
 
 # Wiring diagram
