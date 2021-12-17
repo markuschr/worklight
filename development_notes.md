@@ -43,16 +43,15 @@ For making the dimming option the potentiometer that controls the voltage must b
 
 Next the microcontroller and the regulator for powering it can be added. Any pcb from a car charger that takes 12 V input and outputs 5 V is fine for the regulator. The microcontroller is Wemos D1 mini and one analog input and two digital outputs are used. The analog input is used to measure the voltage of the battery. Analog input takes maximum voltage of 3.3 V so the voltage of 12 V need to be dropped down using two resistors. One digital output is connected to the MOSFET gate pin which controls the LED driver input. The other digital output pin is for the low battery indication LED. 
 
+# Wiring diagram
+
+![wiring of the worklight](https://user-images.githubusercontent.com/96006405/146410564-97dff615-c898-4bcc-9aad-548d0920435c.JPG)
+
+# Arduino program
 The arduino program can be found (HERE). 
 The operation is pretty simple: 
 First it measures the value from analog input A0 pin and counts an average from last 4 values. 
 Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  
-
-
-
-# Wiring diagram
-
-![wiring of the worklight](https://user-images.githubusercontent.com/96006405/146410564-97dff615-c898-4bcc-9aad-548d0920435c.JPG)
 
 # 3D printed case
 
