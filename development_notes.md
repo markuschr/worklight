@@ -41,8 +41,12 @@ First thing is to attach the LED to the heatsink. Holes can be drilled to the he
 
 For making the dimming option the potentiometer that controls the voltage must be removed from the module. By adding a bit of solder to the pins and pulling the potentiometer it comes off pretty easily. Then the trimmer potentiometer can be hot glued to the back of the 10 kohm potentiometer and two wires soldered to the pads on the module, leaving the middle one unconnected. The wires are soldered to the potentiometers along with 11 kohm resistor according to the wiring diagram which can be seen below. After making the connections the trimmer potentiometer screw can still be tuned so that we get the maximum brightness when the bigger potentiometer is rotated to the max.
 
-Next the microcontroller and the regulator for powering it can be added. Any pcb from a car charger that takes 12 V input and outputs 5 V is fine for the regulator. The microcontroller is Wemos D1 mini and one analog input and two digital outputs are used. The analog input is used to measure the voltage of the battery. Analog input takes maximum voltage of 3.3 V so the voltage of 12 V need to be dropped down using two resistors. One digital output is connected to the MOSFET gate pin which controls the LED driver input. The othe digital output pin is for the low battery indication LED. 
+Next the microcontroller and the regulator for powering it can be added. Any pcb from a car charger that takes 12 V input and outputs 5 V is fine for the regulator. The microcontroller is Wemos D1 mini and one analog input and two digital outputs are used. The analog input is used to measure the voltage of the battery. Analog input takes maximum voltage of 3.3 V so the voltage of 12 V need to be dropped down using two resistors. One digital output is connected to the MOSFET gate pin which controls the LED driver input. The other digital output pin is for the low battery indication LED. 
 
+The arduino program can be found (HERE). 
+The operation is pretty simple: 
+First it measures the value from analog input A0 pin and counts an average from last 4 values. 
+Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  
 
 
 
