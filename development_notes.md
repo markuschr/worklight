@@ -56,7 +56,7 @@ The operation is pretty simple:
 
 First it measures the value from analog input A0 pin and counts an average from last 4 values. 
 
-Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  
+Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  Otherwise the the pin controlling the MOSFET is high and the indication LED is low.
 
 # 3D printed case
 
