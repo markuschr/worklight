@@ -50,7 +50,7 @@ Next the microcontroller and the regulator for powering it can be added. Any pcb
 ![wiring of the worklight](https://user-images.githubusercontent.com/96006405/146410564-97dff615-c898-4bcc-9aad-548d0920435c.JPG)
 
 # Arduino program
-The arduino program can be found [worklight.ino].
+The arduino program can be found here: https://github.com/markuschr/worklight/blob/a1ebac3b1dbc1f40e40365d86252e261739fb898/worklight.ino.
 
 The operation is pretty simple: 
 
