@@ -58,6 +58,8 @@ First it measures the value from analog input A0 pin and counts an average from 
 
 Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  Otherwise the the pin controlling the MOSFET is high and the indication LED is low.
 
+When using the cordless drill with the battery the power shuts off when the battery reaches 10.8 V. By using the WiFi connectivity of Wemos D1 mini, the corresponding value for 10.8 V could be measured. The code has lines for connecting to Wifi and writing values to Thingspeak channel, this can be enabled by uncommenting the few lines of code and inserting the credentials.
+
 # 3D printed case
 
 
