@@ -62,7 +62,7 @@ When using the cordless drill with the battery the power shuts off when the batt
 
 # 3D printed case
 
-# Possible improvements for future revisions
+# Problems and possible improvements for future revisions
 The overdischarge protection does not switch the microcontroller's power off and I did not found a workaround for this. One partial solution could have been to put the microcontroller to deepsleep, but I could not get this to work because when entering deepsleep the pin controlling the MOSFET switch did not stay low and the LED would light up again.
 
 
