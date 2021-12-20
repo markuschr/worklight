@@ -67,7 +67,8 @@ The overdischarge protection does not switch the microcontroller's power off and
 
 The device could also work as a powerbank when a car charger which has two usb outputs is used. The other one could provide 5 V to the microcontroller and the other port could be inserted to the case for charging a phone or etc.
 
-Remote control of the LED could also be possible to implement with Wifi.
+Remote control of the LED could also be possible to implement with WiFi or GSM if an old mobile phone is used.
+Also a screen could be added to present brightness and batterylevel.
 
 
 
