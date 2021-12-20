@@ -58,9 +58,12 @@ First it measures the value from analog input A0 pin and counts an average from 
 
 Then the averaged value is compared to two thresholds, the upper threshold is when the indication LED turns on and the lower threshold is when the pin controlling the MOSFET is put on low which switches off the LED driver input.  Otherwise the the pin controlling the MOSFET is high and the indication LED is low.
 
-When using the cordless drill with the battery the power shuts off when the battery reaches 10.8 V. By using the WiFi connectivity of Wemos D1 mini, the corresponding value for 10.8 V could be measured. The arduino program has lines for connecting to Wifi and writing values to Thingspeak channel. This can be enabled by uncommenting the few lines of code and inserting the credentials. The delay must be also increased to 15 seconds because Thingspeak does not accept faster rate for incoming data.
+When using the cordless drill with the battery the power shuts off when the battery reaches 10.8 V. By using the WiFi connectivity of Wemos D1 mini, the corresponding value for 10.8 V could be measured. The arduino program has lines for connecting to Wifi and writing values to Thingspeak channel. This can be enabled by uncommenting the lines of code and inserting the credentials. The delay must be also increased to 15 seconds because Thingspeak does not accept faster rate for incoming data.
 
 # 3D printed case
+
+# Possible improvements for future revisions
+The overdischarge protection does not switch the microcontroller's power off and I did not found a workaround for this. One partial solution could have been to put the microcontroller to deepsleep, but I could not get this to work because when entering deepsleep the pin controlling the MOSFET switch did not stay low and the LED would light up again.
 
 
 
