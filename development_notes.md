@@ -60,7 +60,9 @@ Then the averaged value is compared to two thresholds, the upper threshold is wh
 
 When using the cordless drill with the battery the power shuts off when the battery reaches 10.8 V. By using the WiFi connectivity of Wemos D1 mini, the corresponding value for 10.8 V could be measured. The arduino program has lines for connecting to Wifi and writing values to Thingspeak channel. This can be enabled by uncommenting the lines of code and inserting the credentials. The delay must be also increased to 15 seconds because Thingspeak does not accept faster rate for incoming data.
 
-# 3D printed case
+# Case
+
+All the electronics was fitted inside a 3D printed case (roughly 70 mm x 70 mm x 70 mm) and the LED with the cooling element on top of it with a hinge. Connection to the batteri was made with push-on Abiko connectors which go through the bottom of the case. 
 
 # Problems and possible improvements for future revisions
 The overdischarge protection does not switch the microcontroller's power off and I did not found a workaround for this. One partial solution could have been to put the microcontroller to deepsleep, but I could not get this to work because when entering deepsleep the pin controlling the MOSFET switch did not stay low and the LED would light up again. Maybe using a different pin would have fixed the problem.
