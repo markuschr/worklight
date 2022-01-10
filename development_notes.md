@@ -63,7 +63,10 @@ When using the cordless drill with the battery the power shuts off when the batt
 # Case
 
 All the electronics were fitted to 3D printed body and screwed inside to the 3D printed case (roughly 70 mm x 70 mm x 70 mm) and the LED with the cooling element on top of it with a hinge. Connection to the battery was made with push-on Abiko connectors which go through the bottom of the case. 
+
 ![koko design](https://user-images.githubusercontent.com/96006405/148766713-b4479599-b809-421e-beea-dee6de8ce838.JPG)
+![sisus](https://user-images.githubusercontent.com/96006405/148767554-4f8eacb6-fba6-4b80-b81a-4166bcb1296d.JPG)
+
 
 
 # Problems and possible improvements for future revisions
