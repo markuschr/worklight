@@ -7,11 +7,11 @@ This project was done as a part of Principles of repurposing of electronics cour
 
 # Parts used
 
--10 W COB LED
+-10 W COB LED (https://www.ebay.de/itm/High-Power-COB-LED-Chip-10W-20W-30W-50W-100W-36V-DC-Fluter-Flutlicht-Leuchte/113407196102?var=413651379408)
 
--12 V 1.3 Ah cordless drill battery (Biltema)
+-12 V 1.3 Ah cordless drill battery (https://docs.biltema.com/v2/documents/file/fi/f697c127-bde8-4838-9511-e1e3a682050f)
 
--5A DC-DC Step Down Buck Converter Module with current limiter
+-5A DC-DC Step Down Buck Converter Module with current limiter (https://www.ebay.de/itm/402128636453?_trkparms=ispr%3D1&hash=item5da0bc0a25:g:8oAAAOSwoXZeWgnY&amdata=enc%3AAQAGAAACsPYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsS%252BMKizvpuEDUfX4dvRWfUzcbT1Ny0dmMKr5sUG%252BNKTKcfUKnCJ8uTHtGsyDXoXMd9U6NY0LcXn1DXXfi%252BimPYd3Eoxndf6m5HhfewxiKi%252Bm3yYn8ZgUfN2LtvassU8o%252BN0wQydCkx%252F6bKpBk4PW0IU5VNQPt%252FYznwZS2%252FItvE4aEHATWZf1DaB5kq7BxYFZ1v64R1hMOCTfT%252Bbx4hG00uo8uPaVjJLFYPRlUWNCmenN%252ByMGMce1qo9PupB67ysEKHaOuk6xPpTPod41FKEzKbW2mmoaplNK674nLdZ%252FNvCn2Wa8IkKR%252Bt1Jim4%252FkxHq3b191lDk%252BARNg1nWY3W0zsxmD79uvfKnaxrIGWHjbW3%252FbB2Ffkx9ECXJboLSLsoGSeZZiSyYaV0rQEw3GePKXencsYsLEMITphg0XTmaiNPFXpI2zcro724w8G5d7IAhaYGLfSDovRLG6FI4B5G3NITts3tFldJuYgPpU486yjSQgNW2dPfMK06oaWBUZu%252BjlxrHxW3%252B04sJdrTbRZPPYyOy9F6FWpC%252F%252FvtI5W3CEnSg8c5an%252B5TDYDzhkeshkfksRMjE7cxFdorJeaZVHlpFJHAp%252BDwr6tZa78OdlmRRnfuS42cx7YGxLvvx4%252BPgstIKMiqQ482p2mzKzoS%252BtgvDG5uE3dU0Rc1fNw%252FFrbWaZC0VxKqP8hyXc%252Bn%252BNuwTCdsroSykFl7elz2EOfv38ArYdC6uRV30dbdkgqVeauk3FjQ4LuEYKSjcly5V6pcwFdDjwek9NZQ%252F2qKDBAU6jgUsZ%252FawqB6av%252BUSZ6CWRjHlJb25SWACITFXQxogz7MGHzgDl2%252FFDRWR2gv15BtPwvGem1slgVklkIZJGwrYEQfsiYVk%253D%7Cclp%3A2334524%7Ctkp%3ABFBMgPC2wchf)
 
 -old USB car charger
 
@@ -19,7 +19,7 @@ This project was done as a part of Principles of repurposing of electronics cour
 
 -Wemos D1 mini microcontroller (https://www.ebay.de/itm/255283312826?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D20200818143132%26meid%3D4853776e228643338ebd92fc595ebb65%26pid%3D101198%26rk%3D3%26rkt%3D12%26sd%3D254535886946%26itm%3D255283312826%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLCvipPairwiseWebWithBBEV2bDemotion&_trksid=p2047675.c101198.m1985&amdata=cksum%3A2552833128264853776e228643338ebd92fc595ebb65%7Cenc%3AAQAGAAACAHTZRVZxXf4Tb1xHMcbylES3PjGq2nBVndnQdV%252BMTptVVLbvJdLTpaGJlVpeqQIjcBqPzi9upLpAY7dV6PFLJzUW8RndcMKNPJpEU5zBVfBycvWYZHZ61nvPHIiipXhBXVPCAG0k8YsDpkWU%252B6TK3b7FeJuNbmmi6QVIe4gl73qXzAhb8H%252BMPmhmOsGCOagJXGRpTeDf9%252BeKsd1SZtNf%252FcfhP63xr%252BPhDVLzzXLjNdZH8mH6z4QLuh7dho5wX4nN1G15PiUYs0DiRnWR6tRTkO1cD2tU2kOCOMiYdveywKmwRG3s8MPPtftseH9kdJEcNyfZd9yclG6AqAGdEcByvjN%252FF8DuFJjJkKaKThuZsfgapmjpJ1XdJzfYbum8xLpTHdY8BV9HiEcw%252FYUwwFeJCrJxhPPJbi1HG6HlSQBhzM0%252BmN3zT4s8kidGqS%252B6k1Cy6RifyDNs%252FF9hlyx1TtdcLZoPDI1veU3tKOBGZJCy9zJUNCJeprOhF8lKYe7U3yHsO8EqEECCyYGm9B4H9zTXfd8PvcEtLQMDdugwL1dlOIPZZqZanbWICZUqLNWvq9HIGUmX23M%252BADwIgu3izBU5uJh%252Bs7hE%252F1aXhwQ%252Brg%252F9%252BQ3DL72vhgvi8gMt5pyD7mih%252BIdejWjA%252BJ9L74s%252BUkoC5RShjZKIwPqPzPkwyDMzdnK%252B%7Campid%3APL_CLK%7Cclp%3A2047675)
 
--IRLI530NPbF logic level MOSFET
+-IRLI530NPbF logic level MOSFET (https://www.infineon.com/dgdl/irli530npbf.pdf?fileId=5546d462533600a401535663f87d25bf)
 
 -3mm red LED
 
@@ -29,7 +29,7 @@ This project was done as a part of Principles of repurposing of electronics cour
 
 -fuse
 
--10 kohm potentiometer 
+-10 kohm potentiometer (https://www.spelektroniikka.fi/p11624-monopotentiometri-10-kohm-lineaarinen-metallia-booritettu-akseli-fi.html)
 
 -resistors: 11 kohm, 10 kohm, 3.32 kohm, 100 ohm 
 
