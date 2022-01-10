@@ -66,6 +66,8 @@ All the electronics were fitted to 3D printed body and screwed inside to the 3D 
 
 ![koko design](https://user-images.githubusercontent.com/96006405/148766713-b4479599-b809-421e-beea-dee6de8ce838.JPG)
 ![sisus](https://user-images.githubusercontent.com/96006405/148767554-4f8eacb6-fba6-4b80-b81a-4166bcb1296d.JPG)
+![holderi](https://user-images.githubusercontent.com/96006405/148767678-99968df3-516e-408f-9fb4-d628923e6144.JPG)
+![holderi2](https://user-images.githubusercontent.com/96006405/148767717-caf4c77c-4de6-4272-b9e7-639cdf3e4235.JPG)
 
 
 
